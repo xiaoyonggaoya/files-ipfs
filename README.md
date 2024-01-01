@@ -1,6 +1,6 @@
 # ipfs图床
 
-演示：https://ipf.pages.dev/
+演示：https://files-ipfs.pages.dev/
 
 上传图片等文件到ipfs
 

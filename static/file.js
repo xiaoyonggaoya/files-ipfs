@@ -140,7 +140,7 @@ $(() => {
                     return xhr;
                 },
                 success: res => {
-                    var imgSrc = 'https://ipfs.fleek.co/ipfs/'+res.Hash
+                    var imgSrc = 'https://cdn.img2ipfs.com/ipfs/'+res.Hash
                     /* 清除input框 */
                     $('#file').val(null);
                     if (res.code === -1) {
